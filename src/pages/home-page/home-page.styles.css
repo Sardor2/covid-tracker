@@ -3,14 +3,5 @@
   margin: 1em auto 0;
   text-align: center;
 }
-.homepage-title {
-  font-size: 3rem;
-  margin-bottom: 10px;
-}
 
 
-@media (max-width:678px) {
-  .homepage-title {
-    font-size: 2rem;
-  }
-}

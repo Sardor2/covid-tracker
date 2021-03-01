@@ -13,6 +13,7 @@ const DropDown = ({countryList,setChange}) => {
 
   return  (
     <div className='select-container'>
+      <h2 className="instructions">Type Your Country</h2>
       <Select defaultValue={options[0]} onChange={setChange} options={options} />
     </div>
   )

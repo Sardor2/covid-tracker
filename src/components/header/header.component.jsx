@@ -9,18 +9,8 @@ const Header = () => (
         <a href="#">
           <img className="logo" src={logo} />
         </a>
+        <h1 className='homepage-title'>Track Covid-19</h1>
       </span>
-      <ul>
-        <li>
-          <a href="#" className="nav-link">Home</a>
-        </li>
-        <li>
-          <a href="#" className="nav-link">What`s Covid-19</a>
-        </li>
-        <li>
-          <a href="#" className="nav-link">Contact</a>
-        </li>
-      </ul>
     </nav>
   </div>
 )

@@ -5,3 +5,10 @@
   margin: 1em auto 2em;
   color:#212121;
 }
+
+.instructions {
+  font-size: 1.225rem;
+  margin-bottom: 0.7rem;
+  color: #fff;
+  font-weight: 500;
+}
