@@ -1,0 +1,7 @@
+.select-container {
+  width: 25%;
+  min-width: 200px;
+  text-align: left;
+  margin: 1em auto 2em;
+  color:#212121;
+}
